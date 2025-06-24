@@ -6,7 +6,6 @@
 
 The system goes beyond basic fatigue tracking by combining in-game performance dips, match context, and tactical awareness to **recommend when and who to sub**, helping coaches make smarter, data-backed decisions.
 
----
 
 ## 🎯 Problem Statement
 
